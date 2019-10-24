@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-assignment2",
-    "slug": "react-assignment2",
+    "name": "firebase",
+    "slug": "firebase",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
